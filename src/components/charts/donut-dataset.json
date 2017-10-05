@@ -1,0 +1,10 @@
+{
+  "short-name":"Agus-Silvy",
+  "candidate-number":1,
+  "stats":{
+    "total_news":1000,
+    "positive_news":500,
+    "negative_news":300,
+    "neutral_news":200
+  }
+}
